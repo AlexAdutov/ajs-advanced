@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oq2r54e6sac6xquh?svg=true)](https://ci.appveyor.com/project/AlexAdutov/ajs-advanced)
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
